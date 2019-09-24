@@ -15,9 +15,9 @@ import sys
 '''
 
 
-# host = 'www.muming8.com'
-# user = 'zhang'
-# passwd = 'zhang.123'
+# host = '****'
+# user = '****'
+# passwd = '****'
 # port = 3306
 # db = 'xuanyuan'
 
